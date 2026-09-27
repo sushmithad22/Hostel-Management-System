@@ -318,5 +318,4 @@ const addHostel = () => {
     </div>
   );
 }
-
 export default App;
